@@ -15,7 +15,7 @@ Welcome! This repo contains weekly materials, notebooks, and exercises for the c
 - [Week 9: Multiclass Models](weeks/week9_multiclass/)
 - [Week 10: Neural Networks](weeks/week10_nns/)
 - [Week 11: Trees and Forests](weeks/week11_trees/)
-- *(more coming soon!)*
+- [Week 12: Gradient Boosting](weeks/week12_boosting/)
 
 ## 📚 Other Resources
 - [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
