@@ -16,4 +16,4 @@
 - [📝 Homework assignment](week4_hw_sgd.md)
 - [📘 Homework solution](week4_hw_sgd.ipynb)
 
-### 📅 Date: May 14
+### 📅 Date: May 12

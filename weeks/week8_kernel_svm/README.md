@@ -15,4 +15,4 @@
 - [📝 Homework assignment](week8_hw_spectrum_kernel.md)
 - [📘 Homework solution](week8_hw_spectrum_kernel.ipynb)
 
-### 📅 Date: June 11
+### 📅 Date: June 9

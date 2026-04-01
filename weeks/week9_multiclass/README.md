@@ -13,4 +13,4 @@
 - [📝 Homework assignment](week9_hw_softmax.md)
 - [📘 Homework solution](week9_hw_softmax.ipynb)
 
-### 📅 Date: June 18
+### 📅 Date: June 16

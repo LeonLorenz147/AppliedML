@@ -14,4 +14,4 @@
 - [📝 Homework assignment](week10_hw_mnist.md)
 - [📘 Homework solution](week10_hw_mnist.ipynb)
 
-### 📅 Date: June 25
+### 📅 Date: June 23

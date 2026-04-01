@@ -15,4 +15,4 @@
 - [📝 Homework assignment](week6_hw_poisson.md)
 - [📘 Homework solution](week6_hw_poisson.ipynb)
 
-### 📅 Date: May 28
+### 📅 Date: May 26

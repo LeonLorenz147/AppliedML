@@ -15,4 +15,4 @@
 - [📝 Homework assignment](week5_hw_lasso.md)
 - [📘 Homework solution](week5_hw_lasso.ipynb)
 
-### 📅 Date: May 21
+### 📅 Date: May 19
