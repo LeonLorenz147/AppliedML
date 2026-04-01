@@ -13,4 +13,4 @@
 - [📝 Homework assignment](week2_hw_covid.md)
 - [📘 Homework solution](week2_hw_covid.ipynb)
 
-### 📅 Date: April 30
+### 📅 Date: April 21

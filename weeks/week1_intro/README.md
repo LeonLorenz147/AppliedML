@@ -15,4 +15,4 @@
 - [📝 Organization & structure](intro.md)
 - [📝 Homework assignment](week1_hw_python_env.md)
 
-## 📅 Date: April 23
+## 📅 Date: April 14

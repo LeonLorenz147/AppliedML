@@ -17,4 +17,4 @@
 - [📝 Homework assignment](week3_hw_wine.md)
 - [📘 Homework solution](week3_hw_wine.ipynb)
 
-### 📅 Date: May 7
+### 📅 Date: May 5

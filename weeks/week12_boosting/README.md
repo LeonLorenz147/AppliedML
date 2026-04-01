@@ -12,4 +12,4 @@
 ### 📂 Files
 - [📘 Notebook: Gradient Boosting](boosting.ipynb)
 
-### 📅 Date: July 16
+### 📅 Date: July 7

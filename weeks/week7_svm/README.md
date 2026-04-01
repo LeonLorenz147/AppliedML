@@ -13,4 +13,4 @@
 - [📝 Homework assignment](week7_hw_lr_scheduler.md)
 - [📘 Homework solution](week7_hw_lr_scheduler.ipynb)
 
-### 📅 Date: June 4
+### 📅 Date: June 2

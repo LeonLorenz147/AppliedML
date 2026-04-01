@@ -15,4 +15,4 @@
 - [📘 Notebook: Decision Trees](decision_trees.ipynb)
 - [📘 Notebook: Bagging and Random Forest](random_forest.ipynb)
 
-### 📅 Date: July 9
+### 📅 Date: June 30
