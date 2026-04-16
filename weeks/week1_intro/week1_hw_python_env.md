@@ -106,3 +106,6 @@ This will open a browser window where you can open and run .ipynb files.
 
 
 🧪 You're now ready to start coding!
+
+
+## Test if it is working
