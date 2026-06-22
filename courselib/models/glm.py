@@ -2,7 +2,7 @@ import numpy as np
 from .base import TrainableModel
 
 def sigmoid(x):
-    return 1 / (1 + np.exp(-x))
+    return 1. / (1. + np.exp(-x))
 
 class LogisticRegression(TrainableModel):
     """
@@ -31,9 +31,9 @@ class LogisticRegression(TrainableModel):
 
         # Add regularization if specified
         if self.penalty == "ridge":
-            grad_w += self.alpha * self.w
+            grad_w += self.lam * self.w
         elif self.penalty == "lasso":
-            grad_w += self.alpha * np.sign(self.w)
+            grad_w += self.lam * np.sign(self.w)
 
         return {"w": grad_w, "b": grad_b}
     
