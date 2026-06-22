@@ -5,8 +5,8 @@ For grading criteria and submission requirements, see the general description: *
 
 
 📅 **Timeline**: 
-- **Projects released**: July 2
-- **Submission deadline**: July 16, 23:59 (local time)
+- **Projects released**: June 23
+- **Submission deadline**: July 7, 23:59 (local time)
 
 ## 📊 Project List
 
