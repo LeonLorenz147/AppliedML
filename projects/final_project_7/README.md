@@ -60,9 +60,8 @@ place it in the notebook directory or adjust the `data_path` variable in the not
 
 ## Preprocessing
 The original minute-level measurements are parsed into timestamps using the `Date` and `Time` columns. 
-Missing values marked as `?` are treated as missing data. The target variable `Global_active_power` 
-is resampled from minute-level to hourly mean consumption. The train/test split is chronological, 
-using the first 80% of the time series for training and the remaining 20% for testing.
+The target variable `Global_active_power` is resampled from minute-level to hourly mean consumption. 
+The train/test split is chronological, using the first 80% of the time series for training and the remaining 20% for testing.
 
 ## How to Run
 1. Download `household_power_consumption.txt` from the UCI dataset page.
